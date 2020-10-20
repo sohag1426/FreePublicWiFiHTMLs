@@ -1,1 +1,1 @@
-# FreePublicWiFiHTMLs
+# Free Public WiFi HTMLs
